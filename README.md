@@ -1,6 +1,7 @@
 # Pebbles::PhpCond::Infected
 
-TODO: Write a gem description
+infect php's comparison
+
 
 ## Installation
 
