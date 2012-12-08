@@ -1,4 +1,5 @@
 # Pebbles::PhpCond::Infected
+[![Build Status](https://secure.travis-ci.org/do-aki/pebbles-php_cond-infected.png?branch=master)](https://travis-ci.org/do-aki/pebbles-php_cond-infected)
 
 infect php's comparison
 
