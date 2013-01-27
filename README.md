@@ -20,7 +20,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'pebbles-php_cond-infected'
+
+if false == nil
+  puts 'Hello PHP World!'
+end
+
+```
 
 ## Contributing
 
