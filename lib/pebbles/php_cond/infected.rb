@@ -1,5 +1,5 @@
-require "pebbles-php_cond-infected/version"
-require 'pebbles-php_cond'
+require "pebbles/php_cond/infected/version"
+require 'pebbles/php_cond'
 include Pebbles
 
 class FalseClass

@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'pebbles-php_cond-infected/version'
+require 'pebbles/php_cond/infected/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "pebbles-php_cond-infected"
@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
-  gem.add_dependency 'pebbles-php_cond', '>=0.0.2'
+  gem.add_dependency 'pebbles-php_cond', '>=0.0.3'
 
   gem.add_development_dependency 'rspec'
   gem.add_development_dependency 'rake'

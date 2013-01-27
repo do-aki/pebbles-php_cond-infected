@@ -1,4 +1,4 @@
-require 'pebbles-php_cond-infected'
+require 'pebbles/php_cond/infected'
 
 describe Pebbles::PhpCond::Infected do
   it 'nil' do
