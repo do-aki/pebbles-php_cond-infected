@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["do.hiroaki@gmail.com"]
   gem.description   = %q{infect php's comparison}
   gem.summary       = %q{infect php's comparison}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/do-aki/pebbles-php_cond-infected"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
